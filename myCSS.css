@@ -37,8 +37,9 @@ body {
 	background: #FFE3D1;
 	margin: 0px;
 	float: left;
+	padding: 5;
 	width: 100%;
-	text-align: center;
+	text-align: left;
 }
 .footer {
 	background: #E6BEA6;
